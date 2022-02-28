@@ -19,9 +19,15 @@ class MainActivity : AppCompatActivity() {
         button = findViewById<Button>(R.id.button)
         progressBar = findViewById<ProgressBar>(R.id.progressBar)
 
-        var X:Int=0;//Numer z edit text bar
+        var X:Int=0;
+
 
         button.setOnClickListener{
+            X = numberText.text.toString().toInt();//Value from edit text
+            progressBar.max = X;
+
+            for()
+
 
         }
 
