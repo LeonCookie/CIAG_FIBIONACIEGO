@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
         button = findViewById<Button>(R.id.button)
         progressBar = findViewById<ProgressBar>(R.id.progressBar)
 
-        var X:Int=0;
+        var X:Int;
 
 
 

@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">CIAG_FIBIONACIEGO</string>
     <string name="start">Start</string>
+    <string name="podaj_liczbe">podaj liczbe</string>
 </resources>
